@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Somos Natureza
-image: /img/home-jumbotron.jpg
+image: /img/banner.jpg
 heading: Great coffee with a conscience
 subheading: Movimento Pelos Direitos da Natureza
 mainpitch:
