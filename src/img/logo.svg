@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="700mm"
+   width="575mm"
    height="145mm"
-   viewBox="0 0 700 145"
+   viewBox="0 0 575 145"
    version="1.1"
    id="svg829"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="drawing-1.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45636616"
-     inkscape:cx="1385.4717"
-     inkscape:cy="475.59498"
+     inkscape:cx="1526.1868"
+     inkscape:cy="425.19685"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,7 +63,7 @@
        r="104.69941" />
     <g
        id="g4553"
-       transform="matrix(0.65350042,0,0,0.65350042,278.25289,52.927454)">
+       transform="matrix(0.56437315,0,0,0.56437315,237.80888,76.98187)">
       <a
          id="a847">
         <g
@@ -88,15 +88,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.74770737px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:7.80877352px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55776954"
-       x="171.47131"
-       y="238.23357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.85492516px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:6.26191807px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44727984"
+       x="144.15202"
+       y="230.98402"
        id="text4557"><tspan
          sodipodi:role="line"
          id="tspan4555"
-         x="171.47131"
-         y="238.23357"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:107.0917511px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:3.5083704px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.55776954">Somos Natureza</tspan></text>
+         x="144.15202"
+         y="230.98402"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.87773132px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.81339025px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.44727984">Somos Natureza</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4559"
@@ -108,16 +108,16 @@
            height="162.1505"
            x="1181.0692"
            y="37.449966" /></flowRegion><flowPara
-         id="flowPara4565" /></flowRoot>    <text
+         id="flowPara4565"></flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.38017273px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.97140646px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45238811"
-       x="171.33051"
-       y="296.1723"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.98542404px;line-height:0;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.77488071px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36086524"
+       x="146.69455"
+       y="276.54843"
        id="text4557-9"><tspan
          sodipodi:role="line"
          id="tspan4587"
-         x="171.33051"
-         y="296.1723"
-         style="stroke-width:0.45238811">Movimento pelos direitos da natureza</tspan></text>
+         x="146.69455"
+         y="276.54843"
+         style="stroke-width:0.36086524">Movimento pelos direitos da natureza</tspan></text>
   </g>
 </svg>
