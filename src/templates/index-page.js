@@ -39,6 +39,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
+            textAlign: 'center',
             boxShadow:
               'rgb(46, 204, 113) 0.5rem 0px 0px, rgb(46, 204, 113) -0.5rem 0px 0px',
             backgroundColor: 'rgb(46, 204, 113)',
