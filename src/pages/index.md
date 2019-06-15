@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Somos Natureza
 image: /img/banner.jpg
-heading: Great coffee with a conscience
+heading: Uma parte. Não à parte.
 subheading: Movimento Pelos Direitos da Natureza
 mainpitch:
   title: Quem Somos
