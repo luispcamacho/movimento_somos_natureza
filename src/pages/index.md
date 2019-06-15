@@ -5,12 +5,17 @@ image: /img/banner.jpg
 heading: Great coffee with a conscience
 subheading: Movimento Pelos Direitos da Natureza
 mainpitch:
-  title: Why Kaldi
+  title: Quem Somos
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Somos um colectivo de pessoas, grupos formais e informais, organizações e
+    projectos, e unimos esforços para que os Direitos da Natureza sejam
+    reconhecidos e implementados, consagrando-os na Constituição da República
+    Portuguesa, e promulgando legislação que defenda esses direitos a nível
+    nacional e europeu, de forma efectiva, integrados num movimento global
+    crescente. Este reconhecimento legal não é um fim em si mesmo. É uma
+    ferramenta para a concretização desses direitos e é o móbil para a
+    consciencialização e mobilização da sociedade civil no sentido duma mudança
+    de mentalidades e atitudes na nossa relação com a Natureza.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
