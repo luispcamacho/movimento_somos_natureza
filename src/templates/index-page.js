@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import banner from '../img/site-banner.svg'
 
 export const IndexPageTemplate = ({
   image,
@@ -16,29 +17,8 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundRepeat: 'no-repeat',
-        backgroundAttachment: 'fixed',
-        backgroundPosition: 'center 25vh'
-      }}
-    >
-      <div
-        style={{
-          display: 'flex',
-          height: '46vh',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
-        }}
-      >
-      </div>
-    </div>
+    <img srv={banner} atl="asdas"></img>
+    
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

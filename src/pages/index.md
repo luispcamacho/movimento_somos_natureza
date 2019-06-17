@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Somos Natureza
-image: /img/banner.jpg
+image: /img/banner.svg
 heading: Great coffee with a conscience
 subheading: Movimento Pelos Direitos da Natureza
 mainpitch:
