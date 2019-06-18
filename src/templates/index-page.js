@@ -17,10 +17,11 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
+
+    <section className="section section--gradient">
     <div style={{ margin: '0 20vw' }}>
     <img src={logo} alt="Somos Natureza" style={{  width: '60vw' }} />
     </div>
-    <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
