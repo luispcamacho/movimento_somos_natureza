@@ -19,15 +19,14 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-
-    <section className="section section--gradient">
-    <div style={{ margin: '-1em 23vw 0 23vw', height:'20vw' }}>
-    <Link to="/about">
-      <img class="banner" id="logo_discover" src={logo_discover} alt="Somos Natureza" style={{  width: '20vw', left: '23vw' }} />
-    </Link>
-    <img class="banner" id="logo_support" src={logo_support} alt="Somos Natureza" style={{  width: '20vw', left: '39vw' }} />
-    <img class="banner" id="logo_participate" src={logo_participate} alt="Somos Natureza" style={{  width: '20vw', left: '54vw'  }} />
+    <div style={{ margin: '0 23vw', height:'20vw' }}>
+      <Link to="/about">
+        <img class="banner" id="logo_discover" src={logo_discover} alt="Somos Natureza" style={{  width: '20vw', left: '23vw' }} />
+      </Link>
+      <img class="banner" id="logo_support" src={logo_support} alt="Somos Natureza" style={{  width: '20vw', left: '39vw' }} />
+      <img class="banner" id="logo_participate" src={logo_participate} alt="Somos Natureza" style={{  width: '20vw', left: '54vw'  }} />
     </div>
+    <section style={{paddingTop:'0'}} className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
