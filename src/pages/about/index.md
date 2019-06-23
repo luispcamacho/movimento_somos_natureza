@@ -2,7 +2,9 @@
 templateKey: about-page
 title: O Movimento
 ---
-### Missão / Apresentação (Propósito, objectivo)
+### Missão
+
+
 
 ### Porquê?
 
@@ -20,6 +22,16 @@ As instituições legais são aquelas que melhor reflectem e que dão força à 
 
 E agora é o momento de perguntarmos a nós próprios e uns aos outros para onde queremos ir a partir daqui. E pensarmos, mas pensarmos a sério, o que estamos preparados para responder aos nossos filhos, netos, bisnetos, quando nos perguntarem no futuro "Porque seguiram este caminho?", "Como chegámos aqui?"
 
-### O quê? (como seriam as leis, que significariam ou como se reflectiriam na prática legal, em que é consiste o novo estatuto da Natureza como sujeito de direitos)
+> A maior ameaça actual é o colapso do clima e a destruição de ecossistemas, que colocam em risco a nossa existência e a existência das gerações futuras.
+
+Na raiz desta rede complexa de problemas, com causas e consequências diversas, imediatas e longínquas, encontra-se a relação disfuncional e destrutiva que os seres humanos desenvolveram e alimentam com a Natureza, ignorando que somos parte integral dela, e que Ela é a base e a condição essencial para a existência no seu todo. A crença nesta separação levou-nos e leva-nos por um caminho de auto-destruição, colocando em risco a saúde e o equilíbrio de todos os sistemas vitais dos quais dependemos, e destruindo aquilo que dá sentido e beleza à Vida na Terra, assim como a nossa própria humanidade no processo. 
+
+Um dos testemunhos mais pungentes desta relação disfuncional é o paradigma no qual a maioria dos sistemas legais do mundo se baseia, cristalizando-o e potenciando-o: um paradigma que vê a Natureza, o Planeta e os seus elementos, incluindo nós próprios, como propriedade humana, objectos e recursos a vender, usar, explorar e destruir para servir os interesses (imediatos e percebidos) dos seres humanos. 
+
+Para conseguirmos responder de forma adequada e consequente aos desafios que colocam o nosso futuro em risco, e tornam o presente insustentável para a maioria da população mundial humana e não-humana, é fundamental mudar este paradigma. Se existe uma Lei primordial à qual não podemos escapar, essa é a Lei da Natureza, e é esta que deve presidir a todos os sistemas legais humanos.
+
+### Mas que direitos são estes?
+
+
 
 ### Quem somos
