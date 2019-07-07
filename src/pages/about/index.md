@@ -4,34 +4,26 @@ title: O Movimento
 ---
 ### Missão
 
+Movemos-nos pela reconstrução de uma relação de harmonia, equilíbrio e justiça entre o ser humano e a Natureza. Queremos contribuir para restabelecer a relação de reciprocidade, interdependência e reverência que sempre serviu de suporte à Vida, e que vemos hoje posta em causa.
 
+Alterando o paradigma que rege os sistemas legais e, através e para lá destes, a forma como o ser humano interage com e vê o mundo que o rodeia, as comunidades humanas e não-humanas com quem partilha o único planeta que temos, e o seu lugar nesta teia frágil que sustenta a sua existência, aplicamos os nossos melhores esforços para nos aproximarmos do dia em que retomamos o nosso lugar como uma parte dessa teia, e não à parte ou acima d’Ela.
 
-### Porquê?
+**Porquê?**
 
-Este nome encerra em si, sintetiza duma forma que consideramos eloquente e também muito simples, aquela que é a nossa intenção - o nosso sonho,porque não dizê-lo? - e que é a de recuperarmos a memória, recordarmos a nossa natureza como seres humanos que pertencem à Natureza, que vêm da Natureza, e que sem Ela, a existência não seria, não é e não será possível. Neste sentido, desenhámos dois grandes objectivos e áreas de actuação estratégicos que, como nós e o resto da Natureza, são interdependentes. 
+Os desafios que enfrentamos hoje e que se antecipam para o futuro tomam muitas formas e têm muitas causas e consequências interligadas. Um dos factores comuns que consideramos mais importante e que está na raiz desses desafios e, ao mesmo tempo, nos dá pistas sobre as soluções e o caminho a seguir, é a separação da Natureza e a forma como nos distanciámos dela e, consequentemente, de nós próprios.
 
+A lei é um testemunho e uma ferramenta desta separação. Na grande maioria dos sistemas legais, é atribuído à Natureza um papel passivo, o estatuto de propriedade, de coisa sujeita às vontades e necessidades do ser humano, que pode assim usá-la e vendê-la. Isto reflecte uma perspectiva meramente utilitária que não só permite como legaliza a destruição ecológica, pondo em causa as condições mais básicas e essenciais à existência no seu todo, e contribuindo para a degradação das condições de vida da grande maioria das comunidades humanas, degradação essa distribuída de forma iníqua consoante a sua geografia e o seu poder económico e social, mas a que ninguém vai poder escapar mais tarde ou mais cedo.
 
+**O quê?**
 
-Por um lado, o objectivo de envolver e mobilizar as pessoas, a sociedade civil, em torno desta ideia, desta nova - velha forma de nos relacionarmos como mundo, de vermos o nosso lugar no mundo, para criar uma transformação de paradigma transversal que afecte de forma positiva o nosso impacto no Planeta, a começar pelo cantinho onde nos encontramos e pela nossa própria vivência. Por outro lado, trazer essa transformação de paradigma para as instituições que definem e possibilitam a defesa activa dos Direitos da Natureza,criando as ferramentas que permitem implementar esse novo paradigma na realidade concreta. 
+Os Direitos da Natureza, usando as palavras de Orielle Osprey Lake, são “um conceito revolucionário e evolucionário no coração do qual reside a chave para lidar com o nosso sistema económico horrivelmente disfuncional, e com os quadros legais, sociais e políticos que estão a destruir pessoas e Planeta.”
 
+Ao alterarmos o estatuto da Natureza de objecto do direito de propriedade cuja existência se limita ao serviço dos interesses humanos, para passar a ser sujeito cujos direitos intrínsecos são reconhecidos perante a lei, transformamos os sistemas legais para estarem alinhados com as leis naturais que regulam o equilíbrio dos ecossistemas e dos processos vitais e permitem a existência, a preservação e o florescimento das comunidades humanas e não-humanas.
 
+Para esta alteração de estatuto ser consequente e concretizar-se na prática, existem vários elementos que devem ser implementados e garantidos por lei, nomeadamente o direito da Natureza a se apresentar como parte interessada em processos administrativos e/ou legais que afectem esses direitos, o direito a ser representada por pessoas e organizações comprometidas com a defesa desses direitos, e garantir que os resultados desses processos revertam a favor da reposição desses mesmo direitos, nomeadamente com a aplicação de eventuais ressarcimentos na sua restauração.  Não se trata de vingança ou castigo, mas de prevenção e remediação de injustiças, correcção de erros, reposição de direitos.
 
-As instituições legais são aquelas que melhor reflectem e que dão força à sociedade, ao mundo e ao futuro que queremos construir para nós e sobretudo para as gerações vindouras. Uma sociedade,um mundo e um futuro em comunhão e equilíbrio na e com a Natureza,como parte integrante dela que somos, e não à imagem do que está actualmente inscrito nos nossos sistemas legais: onde a Natureza, a condição-base da Vida,é um conjunto de objectos e recursos a vender, usar, explorar e destruir, conduzindo-nos à encruzilhada onde hoje nos encontramos. 
+Em primeira e última instância, os Direitos da Natureza permitem transformar o paradigma que dita a forma como nos relacionamos com a Natureza e a tratamos, não só nos sistemas legais, mas também nos sistemas económicos, sociais, políticos e culturais, obrigando-nos e ao mesmo tempo dando-nos a oportunidade de revermos e reformularmos os nossos valores e as nossas prioridades pessoais e colectivas, tendo em vista a justiça social e o bem-estar de indivíduos e comunidades.
 
+**Quem somos?**
 
-
-E agora é o momento de perguntarmos a nós próprios e uns aos outros para onde queremos ir a partir daqui. E pensarmos, mas pensarmos a sério, o que estamos preparados para responder aos nossos filhos, netos, bisnetos, quando nos perguntarem no futuro "Porque seguiram este caminho?", "Como chegámos aqui?"
-
-> A maior ameaça actual é o colapso do clima e a destruição de ecossistemas, que colocam em risco a nossa existência e a existência das gerações futuras.
-
-Na raiz desta rede complexa de problemas, com causas e consequências diversas, imediatas e longínquas, encontra-se a relação disfuncional e destrutiva que os seres humanos desenvolveram e alimentam com a Natureza, ignorando que somos parte integral dela, e que Ela é a base e a condição essencial para a existência no seu todo. A crença nesta separação levou-nos e leva-nos por um caminho de auto-destruição, colocando em risco a saúde e o equilíbrio de todos os sistemas vitais dos quais dependemos, e destruindo aquilo que dá sentido e beleza à Vida na Terra, assim como a nossa própria humanidade no processo. 
-
-Um dos testemunhos mais pungentes desta relação disfuncional é o paradigma no qual a maioria dos sistemas legais do mundo se baseia, cristalizando-o e potenciando-o: um paradigma que vê a Natureza, o Planeta e os seus elementos, incluindo nós próprios, como propriedade humana, objectos e recursos a vender, usar, explorar e destruir para servir os interesses (imediatos e percebidos) dos seres humanos. 
-
-Para conseguirmos responder de forma adequada e consequente aos desafios que colocam o nosso futuro em risco, e tornam o presente insustentável para a maioria da população mundial humana e não-humana, é fundamental mudar este paradigma. Se existe uma Lei primordial à qual não podemos escapar, essa é a Lei da Natureza, e é esta que deve presidir a todos os sistemas legais humanos.
-
-### Mas que direitos são estes?
-
-
-
-### Quem somos
+Somos um movimento informal e orgânico que quer apoiar e inspirar todas as pessoas, grupos e organizações a desenvolverem acções e iniciativas que conduzam à alteração do paradigma desde já, não só a nível das instituições legais que o reflectem e lhe dão forma, mas também a nível do nosso quotidiano e do modo como nos relacionamos uns com os outros, com a Natureza de que fazemos parte, e mesmo com nós próprios.
