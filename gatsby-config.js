@@ -7,6 +7,18 @@ module.exports = {
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
+    'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Movimento Somos Natureza`,
+        short_name: `Somos Natureza`,
+        start_url: `/`,
+        background_color: `#66f284`,
+        theme_color: `#66f284`,
+        display: `standalone`,
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {

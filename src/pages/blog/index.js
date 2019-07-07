@@ -23,7 +23,7 @@ export default class BlogIndexPage extends React.Component {
               fontFamily: 'Amatic SC'
             }}
           >
-            Últimas Notícias
+            Quem estamos a proteger
           </h1>
         <section className="section">
           <div className="container">
