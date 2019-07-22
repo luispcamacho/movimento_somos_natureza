@@ -2,28 +2,36 @@
 templateKey: about-page
 title: O Movimento
 ---
-### Missão
+###Os Direitos da Natureza 
 
-Movemos-nos pela reconstrução de uma relação de harmonia, equilíbrio e justiça entre o ser humano e a Natureza. Queremos contribuir para restabelecer a relação de reciprocidade, interdependência e reverência que sempre serviu de suporte à Vida, e que vemos hoje posta em causa.
+Aqui, podem descobrir mais sobre os Direitos da Natureza, a história do conceito e dos avanços e recuos que têm sido feitos em vários países do mundo inteiro, em que consistem, aceder a alguns dos documentos legais, nacionais e internacionais, mais relevantes quer para perceber a base de que partimos no caso português e europeu, quer para conhecermos exemplos concretos de como os Direitos da Natureza têm tomado forma na legislação, nas suas diversas expressões.
 
-Alterando o paradigma que rege os sistemas legais e, através e para lá destes, a forma como o ser humano interage com e vê o mundo que o rodeia, as comunidades humanas e não-humanas com quem partilha o único planeta que temos, e o seu lugar nesta teia frágil que sustenta a sua existência, aplicamos os nossos melhores esforços para nos aproximarmos do dia em que retomamos o nosso lugar como uma parte dessa teia, e não à parte ou acima d’Ela.
+####1. História
 
-**Porquê?**
+Para a construção desta cronologia, baseámos-nos em informação disponível através de algumas organizações internacionais que trabalham pelo avanço dos Direitos da Natureza em várias regiões do mundo, tais como o Community Environmental Legal Defense Fund, a Global Alliance for the Rights of Nature e o Earth Law Center.
 
-Os desafios que enfrentamos hoje e que se antecipam para o futuro tomam muitas formas e têm muitas causas e consequências interligadas. Um dos factores comuns que consideramos mais importante e que está na raiz desses desafios e, ao mesmo tempo, nos dá pistas sobre as soluções e o caminho a seguir, é a separação da Natureza e a forma como nos distanciámos dela e, consequentemente, de nós próprios.
+Nas últimas cinco décadas foram publicadas várias obras que permitiram estabelecer uma base teórica para a defesa dos Direitos da Natureza. Estas são algumas das mais importantes.
 
-A lei é um testemunho e uma ferramenta desta separação. Na grande maioria dos sistemas legais, é atribuído à Natureza um papel passivo, o estatuto de propriedade, de coisa sujeita às vontades e necessidades do ser humano, que pode assim usá-la e vendê-la. Isto reflecte uma perspectiva meramente utilitária que não só permite como legaliza a destruição ecológica, pondo em causa as condições mais básicas e essenciais à existência no seu todo, e contribuindo para a degradação das condições de vida da grande maioria das comunidades humanas, degradação essa distribuída de forma iníqua consoante a sua geografia e o seu poder económico e social, mas a que ninguém vai poder escapar mais tarde ou mais cedo.
+1972) Publicação do ensaio “Should trees have standing – toward legal rights for natural objects.” de Christopher Stone, professor de Direito norte-americano. Esta é considerada a obra fundadora do movimento pelos Direitos da Natureza, ao avançar pela primeira vez na literatura ocidental e jurídica com a ideia de que a Natureza deveria ter direitos reconhecidos por lei.
 
-**O quê?**
 
-Os Direitos da Natureza, usando as palavras de Orielle Osprey Lake, são “um conceito revolucionário e evolucionário no coração do qual reside a chave para lidar com o nosso sistema económico horrivelmente disfuncional, e com os quadros legais, sociais e políticos que estão a destruir pessoas e Planeta.”
+1989) Publicação da obra The Rights of Nature: A History of Environmental Ethics, do professor Roderick Nash, onde traça um paralelo com a luta dos direitos civis, e argumenta que o corpo legal de direitos está a avançar para incluir os direitos da Natureza, à semelhança do que Polly Higgins veio a argumentar mais tarde a favor da sua proposta pela inclusão do crime de Ecocídio na lista de crimes contra a paz.
 
-Ao alterarmos o estatuto da Natureza de objecto do direito de propriedade cuja existência se limita ao serviço dos interesses humanos, para passar a ser sujeito cujos direitos intrínsecos são reconhecidos perante a lei, transformamos os sistemas legais para estarem alinhados com as leis naturais que regulam o equilíbrio dos ecossistemas e dos processos vitais e permitem a existência, a preservação e o florescimento das comunidades humanas e não-humanas.
 
-Para esta alteração de estatuto ser consequente e concretizar-se na prática, existem vários elementos que devem ser implementados e garantidos por lei, nomeadamente o direito da Natureza a se apresentar como parte interessada em processos administrativos e/ou legais que afectem esses direitos, o direito a ser representada por pessoas e organizações comprometidas com a defesa desses direitos, e garantir que os resultados desses processos revertam a favor da reposição desses mesmo direitos, nomeadamente com a aplicação de eventuais ressarcimentos na sua restauração.  Não se trata de vingança ou castigo, mas de prevenção e remediação de injustiças, correcção de erros, reposição de direitos.
+2001) Publicação da obra de Thomas Berry, The Origin, Differentiation and Role of Rights, onde “descreve como todos os membros da comunidade terrestre têm direitos intrínsecos.”
 
-Em primeira e última instância, os Direitos da Natureza permitem transformar o paradigma que dita a forma como nos relacionamos com a Natureza e a tratamos, não só nos sistemas legais, mas também nos sistemas económicos, sociais, políticos e culturais, obrigando-nos e ao mesmo tempo dando-nos a oportunidade de revermos e reformularmos os nossos valores e as nossas prioridades pessoais e colectivas, tendo em vista a justiça social e o bem-estar de indivíduos e comunidades.
 
-**Quem somos?**
+2003) Publicação de Wild Law: A Manifesto for Earth Justice, escrito por Cormac Cullinan e Thomas Berry, que adicionam uma dimensão moral e espiritual à discussão.
+A teoria começou a ter efeitos práticos já no século XXI por diversas vias. Aqui têm sido especialmente importantes acções legais contra atentados ambientais concretos que afectam e mobilizam as comunidades humanas em torno da defesa dos seus lugares.
 
-Somos um movimento informal e orgânico que quer apoiar e inspirar todas as pessoas, grupos e organizações a desenvolverem acções e iniciativas que conduzam à alteração do paradigma desde já, não só a nível das instituições legais que o reflectem e lhe dão forma, mas também a nível do nosso quotidiano e do modo como nos relacionamos uns com os outros, com a Natureza de que fazemos parte, e mesmo com nós próprios.
+
+2006) Tamaqua Burrough (estado da Pensilvânia, E.U.A.) tornou-se o primeiro lugar do mundo a consagrar os Direitos da Natureza na lei, ao invocá-los para banir o despejo de resíduos tóxicos. Muitas outras comunidades norte-americanas seguiram o exemplo desde então. 
+ 
+
+2008) O Equador torna-se o primeiro país a consagrar os Direitos da Natureza na sua constituição.
+ 
+
+2010) Realiza-se na Bolívia a World People’s Conference on Climate Change and the Rights of Mother Earth. Foi aqui redigida a Declaração Universal dos Direitos da Terra-Mãe, apresentada mais tarde às Nações Unidas (e com uma petição a decorrer com o objectivo de alcançar um milhão de assinaturas). No mesmo ano, e na consequência da conferência na Bolívia, foi criada a Global Alliance for the Rights of Nature.
+ 
+
+2014) A GARN realizou o primeiro Tribunal dos Direitos da Natureza no Equador (foram realizados Tribunais em Lima, Peru, em Dezembro de 2014; Paris, França, em 2015; Bona, Alemanha, 2017)
