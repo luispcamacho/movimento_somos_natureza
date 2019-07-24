@@ -34,7 +34,7 @@ export const IndexPageTemplate = ({
     </div>
     <section style={{paddingTop:'0'}} className="section section--gradient">
       <div className="container">
-        <div className="section">
+        <div className="section" style={{paddingTop: '0'}}>
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
