@@ -5,9 +5,9 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
-import logo_discover from '../img/discover.svg'
-import logo_support from '../img/support.svg'
-import logo_participate from '../img/participate.svg'
+import logo_discover from '../img/discover.png'
+import logo_support from '../img/support.png'
+import logo_participate from '../img/participate.png'
 
 export const IndexPageTemplate = ({
   image,
@@ -19,12 +19,18 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div style={{ margin: '0 23vw', height:'20vw' }}>
-      <Link to="/about">
-        <img class="banner" id="logo_discover" src={logo_discover} alt="Somos Natureza" style={{  width: '20vw', left: '23vw' }} />
-      </Link>
-      <img class="banner" id="logo_support" src={logo_support} alt="Somos Natureza" style={{  width: '20vw', left: '39vw' }} />
-      <img class="banner" id="logo_participate" src={logo_participate} alt="Somos Natureza" style={{  width: '20vw', left: '54vw'  }} />
+    <div className="banner_div_2">
+      <div className="banner_div">
+        <Link to="/about">
+          <img className="banner" id="logo_discover" src={logo_discover} alt="Somos Natureza" />
+        </Link>
+        <Link to="/about">
+          <img className="banner" id="logo_support" src={logo_support} alt="Somos Natureza" />
+        </Link>
+        <Link to="/about">
+          <img className="banner" id="logo_participate" src={logo_participate} alt="Somos Natureza" />
+        </Link>
+      </div>
     </div>
     <section style={{paddingTop:'0'}} className="section section--gradient">
       <div className="container">

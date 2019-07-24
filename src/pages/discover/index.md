@@ -11,7 +11,7 @@ Para a construção desta cronologia, baseámos-nos em informação disponível 
 
 Nas últimas cinco décadas foram publicadas várias obras que permitiram estabelecer uma base teórica para a defesa dos Direitos da Natureza. Estas são algumas das mais importantes.
 
-1972) Publicação do ensaio “Should trees have standing – toward legal rights for natural objects.” de Christopher Stone, professor de Direito norte-americano. Esta é considerada a obra fundadora do movimento pelos Direitos da Natureza, ao avançar pela primeira vez na literatura ocidental e jurídica com a ideia de que a Natureza deveria ter direitos reconhecidos por lei.
+1972) Publicação do ensaio [“Should trees have standing – toward legal rights for natural objects.”](https://iseethics.files.wordpress.com/2013/02/stone-christopher-d-should-trees-have-standing.pdf) de Christopher Stone, professor de Direito norte-americano. Esta é considerada a obra fundadora do movimento pelos Direitos da Natureza, ao avançar pela primeira vez na literatura ocidental e jurídica com a ideia de que a Natureza deveria ter direitos reconhecidos por lei.
 
 
 1989) Publicação da obra The Rights of Nature: A History of Environmental Ethics, do professor Roderick Nash, onde traça um paralelo com a luta dos direitos civis, e argumenta que o corpo legal de direitos está a avançar para incluir os direitos da Natureza, à semelhança do que Polly Higgins veio a argumentar mais tarde a favor da sua proposta pela inclusão do crime de Ecocídio na lista de crimes contra a paz.

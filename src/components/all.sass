@@ -145,14 +145,40 @@ $menu-label-color: $white-ter
     max-width: 70%;
     margin: 0 0 1em;
 
-.banner
-  position: absolute
-  cursor: pointer
-  margin-top: 1em;
-  transition: .5s;
-.banner:hover
-    margin-top: 0;
+.banner_div
+  display: flex
+  flex-direction: row
+  width: 100%
+  margin-left: 26vw
+
+  > a
+    margin-left: -3vw;
+
+  .banner
+    cursor: pointer
+    padding-top: 2vw;
     transition: .5s;
+    width: 20vw
+
+  .banner:hover
+    padding-top: 0;
+    padding-bottom: 2vw;
+    transition: .5s;
+  
+
+/* Using SCSS variables to store breakpoints */
+@media (max-width: 742px)
+  .banner_div
+    height: 40vw !important
+    margin-left: 4.5vw
+    > a
+      margin-left: -4.5vw;
+    .banner
+      width: 36vw
+      &:hover
+        padding-top: 0;
+        padding-bottom: 2vw;
+        transition: .5s;
 
 li
   font-weight: 600
